@@ -23,11 +23,7 @@ This project focuses on analyzing sales performance data using **MySQL** and vis
 * **Profit Margin Leaders:** Bhubaneswar, Hyderabad, Chennai
 
 
-| File                               | Description                                                         |
-| ---------------------------------- | ------------------------------------------------------------------  |
-| `Sales_Insights.pdf`               | Power BI dashboard showing visualized sales analysis in Pdf format  |
-| `Sales_Insightspbix`               | Power BI dashboard showing visualized sales analysis in pbix format |
-
+[📘 Open Sales Insights PDF](Sales Insights.pdf)
 
 ###  How to Run the Project
 
