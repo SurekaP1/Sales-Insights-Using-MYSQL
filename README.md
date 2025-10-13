@@ -23,14 +23,14 @@ This project focuses on analyzing sales performance data using **MySQL** and vis
 * **Profit Margin Leaders:** Bhubaneswar, Hyderabad, Chennai
 
 
-[📘 Open Sales Insights PDF](Sales_Insights.pdf)
+[📘 Open Sales Insights PDF](Sales-Insights.pdf)
 
 ###  How to Run the Project
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Sales-Insights-Using-MYSQL.git
+   git clone https://github.com/SurekaP1/Sales-Insights-Using-MYSQL.git
    ```
 2. **Open MySQL Workbench** and import your database.
 3. **Run the SQL queries** from `Sales_Insights_MySQL_Queries.sql` to prepare and analyze the data.
