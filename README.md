@@ -9,7 +9,7 @@ This project focuses on analyzing sales performance data using **MySQL** and vis
 
 * **Database:** MySQL
 * **Visualization:** Power BI
-* **Data Cleaning & Transformation:** SQL Queries
+* **Data Cleaning & Transformation:** Power BI (Power Queries)
 * **Dataset:** Sales Transactions, Customers, Products, and Markets
 
 
