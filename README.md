@@ -49,9 +49,9 @@ This project focuses on analyzing sales performance data using **MySQL** and vis
 * Helped business teams make **data-driven marketing and sales decisions**.
 
 
-###  Contact
+###  Author
+**[Sureka Pararasa]**  
+📧 surekapararasa@gmail.com  
+💼 [[LinkedIn Profile](https://www.linkedin.com/posts/sureka-pararasa_dataanalytics-datavisualization-dataanalystjourney-activity-7375940853309181952-hb7t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWVDDIBQS1-o5eRlhUiBZfndjOh_dijnvU)]  
 
-##### **Author:** **Pararasa Sureka**
-##### **University:** **Sabaragamuwa University of Sri Lanka**
-##### **Email:** **(surekapararasa@gmail.com)**
 
