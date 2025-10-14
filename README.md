@@ -23,7 +23,7 @@ This project focuses on analyzing sales performance data using **MySQL** and vis
 * **Profit Margin Leaders:** Bhubaneswar, Hyderabad, Chennai
 
 
-[📘 Open Sales Insights PDF](Sales-Insights.pdf)
+[📘 Open Sales Insights PDF](Sales_Insights.pdf)
 
 ###  How to Run the Project
 
