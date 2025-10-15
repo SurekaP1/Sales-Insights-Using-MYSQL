@@ -70,6 +70,6 @@ The goal was to identify **sales trends, top-performing markets, customer contri
 ###  Author
 **[Sureka Pararasa]**  
  surekapararasa@gmail.com  
- [[LinkedIn Profile]([https://www.linkedin.com/posts/sureka-pararasa_dataanalytics-datavisualization-dataanalystjourney-activity-7375940853309181952-hb7t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWVDDIBQS1-o5eRlhUiBZfndjOh_dijnvU](https://www.linkedin.com/posts/sureka-pararasa_sales-analysis-mysql-power-bi-analyzed-activity-7383930102910435328-xRoW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWVDDIBQS1-o5eRlhUiBZfndjOh_dijnvU))]  
+ [[LinkedIn Profile](https://www.linkedin.com/posts/sureka-pararasa_sales-analysis-mysql-power-bi-analyzed-activity-7383930102910435328-xRoW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWVDDIBQS1-o5eRlhUiBZfndjOh_dijnvU)]  
 
 
